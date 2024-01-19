@@ -37,7 +37,7 @@ public class InputHelper {
                 if (x <= max && x >= min) {
                     done = true;
                 } else {
-                    System.out.println("Error blah");
+                    System.out.println("Error: Not in Range.");
                 }
             } else {
                 System.out.println("Error");
